@@ -1,4 +1,4 @@
-Package: The package does hypothesis testing
+Package: dohypothesis
 Type: Package
 Title: Does Two Tail and One Tail T test, ANOVA and Chi Sq test
 Version: 0.1.0
