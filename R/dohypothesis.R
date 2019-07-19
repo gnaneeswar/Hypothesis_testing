@@ -10,7 +10,7 @@
 #'
 #' @export stats
 
-stats<-function(df,test,alpha)
+stats_get<-function(df,test,alpha)
 
 {
   library("dplyr")
