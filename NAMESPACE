@@ -1,1 +1,1 @@
-exportPattern(stats)
+exportPattern(stats_get)
